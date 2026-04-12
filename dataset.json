@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant dataset spanning the Kennewick-Richland (Metro), Washington metropolitan area including Kennewick and Richland. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Kennewick-Richland (Metro), Washington, US",
+  "export_job_id": "7183070e-25b7-48b8-8f9d-748fd60d009e",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 532269,
+  "location_name": "Kennewick-Richland, WA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-kennewick-richland-metro-washington-us-sample-532269",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/532269/beamstation_532269_restaurants-us-kennewickrichlandwa_SAMPLE_DIST.csv",
+  "sample_pct": 9.89,
+  "sample_records": 65,
+  "sample_sha256": "c5e6b4203c1d3ddab9458043e6509df551674a829896f70f896a00efcfd8aca7",
+  "sample_size_bytes": 248755,
+  "total_records": 657,
+  "updated_at": "2026-04-07T12:10:28.977058+00:00"
+}
