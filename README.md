@@ -1,6 +1,6 @@
 # All Restaurants in Kennewick-Richland (Metro), Washington, US
 
-> Free BeamStation sample export with 65 rows and masked direct-contact fields.
+> Free BeamStation sample export with 63 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `532269` |
 | Location | Kennewick-Richland, WA |
 | Category | Restaurants |
-| Full dataset size | 657 records |
-| Free sample size | 65 records (9.89%) |
-| Last export | 2026-04-07T12:10:28.977058+00:00 |
+| Full dataset size | 631 records |
+| Free sample size | 63 records (9.98%) |
+| Last export | 2026-04-14T12:03:54.964601+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kennewick-richland-metro-washington-us-sample-532269/releases/download/sample-latest/beamstation_532269_restaurants-us-kennewickrichlandwa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
