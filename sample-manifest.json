@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7183070e-25b7-48b8-8f9d-748fd60d009e",
+  "export_job_id": "2cf055a7-21fe-4bf8-b0bc-78e7d40d1f44",
   "id_short": 532269,
-  "published_at": "2026-04-12T19:52:37Z",
+  "published_at": "2026-04-17T19:37:14Z",
   "repo_name": "all-restaurants-in-kennewick-richland-metro-washington-us-sample-532269",
   "sample_asset_name": "beamstation_532269_restaurants-us-kennewickrichlandwa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/532269/beamstation_532269_restaurants-us-kennewickrichlandwa_SAMPLE_DIST.csv",
-  "sample_records": 65,
-  "sample_sha256": "c5e6b4203c1d3ddab9458043e6509df551674a829896f70f896a00efcfd8aca7",
-  "sample_size_bytes": 248755,
-  "total_records": 657
+  "sample_records": 63,
+  "sample_sha256": "e2fa058d4a0f4fc8392b0168a02b9c98ab6d3c68f60948a69fd8023e4ba1b188",
+  "sample_size_bytes": 238215,
+  "total_records": 631
 }
